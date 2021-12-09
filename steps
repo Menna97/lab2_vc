@@ -23,3 +23,9 @@ touch steps
 gedit steps
 
 touch MennaElGedawy
+
+git checkout main
+
+git branch test
+
+
