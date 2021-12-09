@@ -37,3 +37,13 @@ git merge test
 git push origin dev
 
 git push origin test
+
+to delete remote branch:
+
+git push origin :branch_name
+
+to delete local branch:
+
+git branch -d branch_name
+
+git branch -D branch_name
