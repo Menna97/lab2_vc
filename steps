@@ -33,3 +33,7 @@ git checkout main
 git merge dev
 
 git merge test
+
+git push origin dev
+
+git push origin test
